@@ -1,4 +1,4 @@
-void main(List<String> args) {
+void main(List<String> args) async {
   var t = Titan();
   print("Eren Yaiger");
   print(t.name);
